@@ -21,8 +21,6 @@ Front Pcb:
 Back Pcb: 
 ![Photo 6]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Pcb-back.jpg)
 
-https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Pcb-Back.jpg
-
 
 Diagram: 
 ![Photo 10]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/schematic_cLdbaphKhl.jpg)
