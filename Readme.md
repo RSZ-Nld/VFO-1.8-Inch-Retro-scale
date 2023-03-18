@@ -1,4 +1,5 @@
 Made a own pcb with si5351 and 1.8Inch  Display and a esp32Dev.
+You can change the file for add on BFO and Frequency BFO
 ## About the original project
 Sketch orginal from JF3HZB mod by 
 IU4ALH
