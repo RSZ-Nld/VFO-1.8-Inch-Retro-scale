@@ -19,7 +19,7 @@ Parts:
 
 https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Parts.txt
 
-TTGO Ricardo Caritti version is here: 
+JF3HZB version is here: 
 
 https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T-Display_S3-Normal-Ricardo.zip
 
