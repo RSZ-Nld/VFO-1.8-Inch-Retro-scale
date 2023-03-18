@@ -4,7 +4,6 @@ You can change the file for add on BFO and Frequency BFO,
 
 Memory is only working for start Frequency.
 
-Mabye different files for that?
 ## About the original project
 Sketch orginal from JF3HZB mod by 
 IU4ALH
