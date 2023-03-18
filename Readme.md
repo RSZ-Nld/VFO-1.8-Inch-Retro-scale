@@ -15,13 +15,10 @@ Org from JF3HZB
 Diagram: 
 ![Photo 10]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/schematic_cLdbaphKhl.jpg)
 
-Parts:
-
-https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Parts.txt
 
 JF3HZB mod by IU4ALH version is here:
 
-
+https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/VFO_ESP32_2_Pul_225_18mem.zip
 
 JF3HZB version is here: 
 
