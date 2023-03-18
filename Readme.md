@@ -1,6 +1,9 @@
 Made a own pcb with si5351 and 1.8Inch  Display and a esp32Dev.
+
 You can change the file for add on BFO and Frequency BFO, 
+
 only with these 2 files the Memory store does not work.
+
 Mabye different files for that?
 ## About the original project
 Sketch orginal from JF3HZB mod by 
