@@ -26,19 +26,12 @@ TTGO Ricardo Caritti version is here:
 
 https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T-Display_S3-Normal-Ricardo.zip
 
-Or Reverse Encoder
-
-https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T-Display_S3-Rev-Ricardo.zip
-
+Gerber files:
+https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Gerbers.zip
 
 
 
 
-Or the one from Ralph Xavier, adapted for this board:
 
-https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T-Display_S3-Normal-Ralph.zip
 
-Or Reverse Encoder
-
-https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/ALL_IN_ONE_T-Display_S3-Rev-Ralph.zip
 
