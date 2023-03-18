@@ -19,7 +19,9 @@ Parts:
 
 https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Parts.txt
 
-JF3HZB mod by  version is here:
+JF3HZB mod by IU4ALH version is here:
+
+
 
 JF3HZB version is here: 
 
