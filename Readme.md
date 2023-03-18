@@ -1,6 +1,6 @@
 Made a own pcb with si5351 and 1.8Inch  Display and a esp32Dev.
 
-You can change the file for add on BFO and Frequency BFO, 
+You can change the file for add on IF and Frequency BFO, 
 
 Memory is only working for start Frequency.
 
@@ -29,13 +29,14 @@ JF3HZB mod by IU4ALH version is here:
 
 https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/VFO_ESP32_2_Pul_225_18mem.zip
 
-JF3HZB version is here: 
+JF3HZB version is here:
 
 https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/VFO_CTRL_V8.zip
 
 
 
 Gerber files:
+
 https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Gerbers.zip
 
 
