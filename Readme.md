@@ -11,12 +11,9 @@ Back:
 Org from JF3HZB
 ![Photo 2]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Org.jpg)
 
-Video reception:
-
-https://youtu.be/S8R6GBuiJsc
 
 Diagram: 
-![Photo 10]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/TTGO-4735.jpg)
+![Photo 10]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/schematic_cLdbaphKhl.jpg)
 
 Parts:
 
