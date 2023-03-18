@@ -9,7 +9,7 @@ Front:
 Back:
 ![Photo 1]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Back.JPG)
 Org from JF3HZB
-![Photo 2]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb.JPG)
+![Photo 2]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Org.jpg)
 
 Video reception:
 
