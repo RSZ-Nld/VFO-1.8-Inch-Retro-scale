@@ -4,7 +4,9 @@ Sketch orginal from JF3HZB mod by
 IU4ALH
 ### Photos
 ![Photo 10]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/20230318_163448.jpg)
-![Photo 0]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb-1.jpg)
+Front:
+![Photo 0]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Front.JPG)
+Back:
 ![Photo 1]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb-2.jpg)
 ![Photo 2]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb.JPG)
 
