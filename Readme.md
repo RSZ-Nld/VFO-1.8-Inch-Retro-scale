@@ -7,7 +7,8 @@ IU4ALH
 Front:
 ![Photo 0]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Front.JPG)
 Back:
-![Photo 1]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb-2.jpg)
+![Photo 1]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Back.JPG)
+Org from JF3HZB
 ![Photo 2]( https://github.com/RSZ-Nld/TTGO-1.9-Inch/blob/main/Pcb.JPG)
 
 Video reception:
