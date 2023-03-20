@@ -2,11 +2,12 @@ Made a own pcb with si5351 and 1.8Inch  Display and a esp32Dev.
 
 You can change the file for add on IF and Frequency BFO, 
 
-Memory is only working for start Frequency.
+Memory button is for the start Frequency on startup.
 
 ## About the original project
 Sketch orginal from JF3HZB mod by 
 IU4ALH
+
 ### Photos
 ![Photo 10]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/20230318_163448.jpg)
 Front:
