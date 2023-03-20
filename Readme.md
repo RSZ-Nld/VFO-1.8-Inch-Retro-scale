@@ -27,7 +27,7 @@ Diagram:
 
 JF3HZB mod by IU4ALH version is here:
 
-https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/VFO_ESP32_2_Pul_225_18mem.zip
+https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Flash.zip
 
 JF3HZB version is here:
 
