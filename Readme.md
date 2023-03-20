@@ -25,7 +25,7 @@ Diagram:
 ![Photo 10]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/schematic_cLdbaphKhl.jpg)
 
 
-JF3HZB mod by IU4ALH version is here:
+JF3HZB mod by IU4ALH and change it for this pcb by me is here:
 
 https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Flash.zip
 
