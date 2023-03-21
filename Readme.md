@@ -25,7 +25,7 @@ Back Pcb:
 
 
 Diagram: 
-![Photo 10]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/schematic_cLdbaphKhl.jpg)
+![Photo 10]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Diagram.JPG)
 
 
 JF3HZB mod by IU4ALH and change it for this pcb by me is here:
