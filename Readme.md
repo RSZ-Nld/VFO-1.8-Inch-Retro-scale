@@ -15,6 +15,12 @@ Front:
 Back:
 ![Photo 1]( 
 https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Back-pcb.JPG)
+Front V1.1
+![Photo 5](https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Front-pcb-V1.1.JPG )
+Back V1.1:
+![Photo 7]( 
+https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Back-pcb.JPG)
+
 
 Org from JF3HZB
 ![Photo 2]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Org.jpg)
