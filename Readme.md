@@ -53,6 +53,8 @@ https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Gerbers.zip
 
 Gerber Files V1.1 with 20 Mem and + and - Memory button.
 
+https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Gerbers%20V1.1.zip
+
 
 
 
