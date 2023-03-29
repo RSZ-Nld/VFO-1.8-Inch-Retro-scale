@@ -4,7 +4,7 @@ You can change the file for add on IF and Frequency BFO,
 
 Memory button is for the start Frequency on startup.
 
-V.1.1 now ou, got 20 Memory's with + and - buttons  on pcb
+V.1.1 now out, got 20 Memory's with + and - buttons  on pcb
 
 Store the startup Freq with the Encoder Switch
 
