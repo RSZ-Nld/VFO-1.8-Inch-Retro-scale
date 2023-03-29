@@ -46,11 +46,11 @@ Diagram:
 
 
 
-JF3HZB mod by IU4ALH and change it for this pcb by me is here:
+JF3HZB mod by IU4ALH and change a little for this pcb V1.0 by me is here:
 
 https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Flash.zip
 
-JF3HZB version is here:
+JF3HZB version for V1.0 is here:
 
 https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/VFO_CTRL_V8.zip
 
