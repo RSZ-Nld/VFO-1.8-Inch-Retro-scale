@@ -1,6 +1,6 @@
 Made a own pcb with si5351 and 1.8Inch Display and a Esp32DevKit1.
 
-You can change the file for add on IF and Frequency BFO, 
+You can change the file for add on IF and Frequency BFO.
 
 Memory button is for the start Frequency on startup.
 
