@@ -5,6 +5,7 @@ You can change the file for add on IF and Frequency BFO,
 Memory button is for the start Frequency on startup.
 
 V.1.1 now out, got 20 Pre-Memory's with + and - buttons  on pcb
+Steps in 10 Hz, 100Hz, 1KHz,10 KHz, 100KHz, 1MHz and 10MHz.
 
 Store the startup Frequency with the Encoder Switch
 
