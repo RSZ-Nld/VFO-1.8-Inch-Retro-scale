@@ -18,7 +18,7 @@ IU4ALH
 Photo Screen V1.1
 ![Photo 13](https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/V1.1.jpg)
 V1.0
-![Photo 10]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/20230318_163448.jpg)
+![Photo 10]( https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Front.jpg)
 
 Front V1.1
 ![Photo 5](https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Front-pcb-V1.1.JPG )
