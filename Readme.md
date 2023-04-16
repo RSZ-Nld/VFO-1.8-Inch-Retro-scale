@@ -64,6 +64,7 @@ https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Flash-455kHz.zip
 
 MF + 9MHz
 
+https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Flash-9MHz.zip
 
 MF + 10.7MHz
 
