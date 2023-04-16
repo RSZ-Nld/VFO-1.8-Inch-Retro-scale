@@ -67,6 +67,7 @@ MF + 9MHz
 
 MF + 10.7MHz
 
+https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Flash-10.7MHz.zip
 
 
 
