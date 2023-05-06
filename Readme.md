@@ -76,7 +76,7 @@ https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Flash-10.7MHz.zip
 
 And this Ino file you can edit for MF and BFO Freq
 
-https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/VFO_ESP32-20-Mem.zip
+https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/VFO_ESP32-20-Mem-INO.zip
 
 
 
