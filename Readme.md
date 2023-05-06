@@ -54,7 +54,7 @@ https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/VFO_CTRL_V8.zip
 
 For my V1.1 pcb with 20 Memory and + and - button for Memory
 
-https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Flash-V1.1.zip
+https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Flash-20-Mem.zip
 
 Flash Files with 20 Mem and + MF  455kHz, 9 MHz and 10.7MHz
 
