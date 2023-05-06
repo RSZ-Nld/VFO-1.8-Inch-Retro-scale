@@ -56,6 +56,10 @@ For my V1.1 pcb with 20 Memory and + and - button for Memory
 
 https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Flash-20-Mem.zip
 
+Or reverse Encoder:
+
+https://github.com/RSZ-Nld/VFO-1.8-Inch-Retro-scale/blob/main/Flash-20-Mem-Rev.zip
+
 Flash Files with 20 Mem and + MF  455kHz, 9 MHz and 10.7MHz
 
 MF + 455kHz
