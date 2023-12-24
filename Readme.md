@@ -13,6 +13,7 @@ Store the startup Frequency with the Encoder Switch
 ## About the original project
 Sketch orginal from JF3HZB mod by 
 IU4ALH
+https://github.com/tjlab-jf3hzb/Digital_VFO_with_analog_dial_V2
 
 ### Photos
 Photo Screen V1.1
